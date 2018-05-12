@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40098'
     url: http://www.gutenberg.org/2009/agents/40098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39625#History-of-Llangollen-and-its-Vicinityincluding-a-circuit-of-about-seven-miles
 gutenberg_issued: '2012-05-05'
 gutenberg_type: Text
 identifiers:
